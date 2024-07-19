@@ -1,2 +1,4 @@
 # Minesweeper
- Minesweeper in the console field written in c++. Has several options regarding size and number of mines. To play after selection, input coordinates starting from 0,0
+ Minesweeper in the console field written in c++. Has several options regarding size and number of mines.
+ To play after selection, input coordinates starting from 0,0
+ Originally written on Visual Studio 2022
